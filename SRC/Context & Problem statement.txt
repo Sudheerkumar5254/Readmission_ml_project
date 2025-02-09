@@ -1,0 +1,14 @@
+Context
+Hospital readmissions are a critical issue in healthcare, affecting both patient outcomes
+ and hospital costs. A significant number of patients are readmitted within 180 days of 
+ discharge due to complications, inadequate post-discharge care, or chronic conditions.
+  Predicting patient readmission can help hospitals take preventive measures, improve 
+  healthcare services, and reduce costs.
+
+Objective
+Develop a machine learning model to predict whether a patient will be readmitted to the hospital
+ within 180 days after discharge.
+
+ # dataset is avaiable in seperate csv folder.
+
+ ##
