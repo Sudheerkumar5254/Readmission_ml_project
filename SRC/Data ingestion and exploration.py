@@ -35,4 +35,8 @@ plt.boxplot(df1[num_cols])
 plt.show()
 
 
+---------------------xxxxxxxxxxxxxxxxxxxx------------------
+
+
+
  
